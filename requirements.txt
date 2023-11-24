@@ -1,0 +1,12 @@
+fastapi
+redis
+types-redis
+uvicorn
+pydantic
+pymongo
+wordcloud
+numpy
+pillow
+matplotlib
+httpx
+pytest
